@@ -1,1 +1,48 @@
-
+body {
+ background-color: #28231D
+}
+h1{
+  font-size: 200%;
+  letter-spacing: 1px;
+  color: white;
+  text-decoration: underline overline ;
+  text-decoration-color: #fffee0;
+  font-family: "Times New Roman";
+  text-decoration-skip-ink: auto;
+  text-shadow: #FC0 1px 0 10px;
+  text-underline-offset: 8px;
+}
+}
+p{font-size: 200%;
+  letter-spacing: 2px;
+  color: white;
+  text-decoration: underline;
+  text-decoration-color: orange;
+  font-family: "Times New Roman";
+}
+img{
+  width: 400px;
+  border-style: dashed;
+  border-color: white;
+}
+iframe{
+  
+}
+ul{
+  text-align: center;
+  list-style-type: none;
+  position: fixed;
+}
+li{
+  float: left;
+}
+li a{
+  padding:20px;
+  color:#fffee0;
+  text-decoration:none;
+  font-family: "Times New Roman";
+  border: none; 
+}
+li a:hover{
+  background-color:black;
+}
